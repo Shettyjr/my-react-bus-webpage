@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-react-bus-webpage/static/css/main.543dccdd.css",
-    "main.js": "/my-react-bus-webpage/static/js/main.6aa24f34.js",
+    "main.js": "/my-react-bus-webpage/static/js/main.af250b1e.js",
     "static/js/453.cdca2928.chunk.js": "/my-react-bus-webpage/static/js/453.cdca2928.chunk.js",
     "index.html": "/my-react-bus-webpage/index.html",
     "main.543dccdd.css.map": "/my-react-bus-webpage/static/css/main.543dccdd.css.map",
-    "main.6aa24f34.js.map": "/my-react-bus-webpage/static/js/main.6aa24f34.js.map",
+    "main.af250b1e.js.map": "/my-react-bus-webpage/static/js/main.af250b1e.js.map",
     "453.cdca2928.chunk.js.map": "/my-react-bus-webpage/static/js/453.cdca2928.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.543dccdd.css",
-    "static/js/main.6aa24f34.js"
+    "static/js/main.af250b1e.js"
   ]
 }
